@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://media.giphy.com/media/xUPGcigl4eOfc6hA5y/giphy.gif)
+
+I'm DB 😄! Nice to meet you! \
+
+When the Wifi/Modem/ISP works, I do miscellaneous things with various languages (Python, HTML/CSS/JS, Ubuntu/dabbling in Arch), and I'm learning C++ and Ethical Hacking in Kali Linux 🌱🤔!
