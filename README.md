@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://media.giphy.com/media/xUPGcigl4eOfc6hA5y/giphy.gif)
+![](giphy2beedited.mp4)
 
 I'm DB 😄! Nice to meet you! \
 
