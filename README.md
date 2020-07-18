@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![](giphy2beedited.mp4)
+![video](giphy2beedited.mp4)
 
 I'm DB 😄! Nice to meet you! \
 
