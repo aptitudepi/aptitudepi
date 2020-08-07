@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 I'm DB 😄! Nice to meet you! \
 
-When the Wifi/Modem/ISP works, I do miscellaneous things with various languages (Python, HTML/CSS/JS, Ubuntu/dabbling in Arch), and I'm learning C++ and Ethical Hacking in Kali Linux 🌱🤔!
+When the Wifi/Modem/ISP works, I do miscellaneous things with various languages (Python, HTML/CSS/JS, Ubuntu/dabbling in Arch), and learn C++ and Ethical Hacking in Kali Linux 🌱🤔!
