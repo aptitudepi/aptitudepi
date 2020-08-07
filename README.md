@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ![](https://media.giphy.com/media/b18SglxYnfKRW/giphy-downsized.gif)
 ![](https://media.giphy.com/media/mW05nwEyXLP0Y/giphy.gif)
+
 I'm DB 😄! Nice to meet you! \
 
 When the Wifi/Modem/ISP works, I do miscellaneous things with various languages (Python, HTML/CSS/JS, Ubuntu/dabbling in Arch), and I'm learning C++ and Ethical Hacking in Kali Linux 🌱🤔!
