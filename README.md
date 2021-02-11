@@ -2,7 +2,7 @@
 
 <!--
 **aptitudepi/aptitudepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://komarev.com/ghpvc/?username=aptitudepi)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://media.giphy.com/media/b18SglxYnfKRW/giphy-downsized.gif)
 ![](https://media.giphy.com/media/mW05nwEyXLP0Y/giphy.gif)
 
 I'm DB 😄! Nice to meet you! \
 
 When the Wifi/Modem/ISP works, I do miscellaneous things with various languages (Python, HTML/CSS/JS, Ubuntu/dabbling in Arch), and learn C++ and Ethical Hacking in Kali Linux 🌱🤔!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aptitudepi&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
