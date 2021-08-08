@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm DB 😄! Nice to meet you! \
 
-When the Wifi/Modem/ISP works, I do miscellaneous things with various languages (Python, HTML/CSS/JS, Ubuntu/dabbling in Arch), and learn C++ and Ethical Hacking in Kali Linux 🌱🤔! I'm also wondering how I can get Kubernetes (specifically microk8s) to do various things on my Raspberry Pi Cluster!
+When the Wifi/Modem/ISP works, I do miscellaneous things with various languages (Python, HTML/CSS/JS, Ubuntu/dabbling in Arch), and learn C++ and Ethical Hacking in Kali Linux 🌱🤔! I'm also wondering how I can get Kubernetes (specifically SLURM) to do various things on my Raspberry Pi Cluster!
 
 ![aptitudepi's github stats](https://github-readme-stats.vercel.app/api?username=aptitudepi&bg_color=90,0000ff,ff0000&show_icons=true&&text_color=c0c0c0&title_color=ffffff)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&bg_color=90,0000ff,ff0000&show_icons=true&&text_color=c0c0c0&title_color=ffffff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
