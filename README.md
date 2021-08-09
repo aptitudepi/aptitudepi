@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=aptitudepi)
 ![](https://media.giphy.com/media/mW05nwEyXLP0Y/giphy.gif)
 
 I'm DB 😄! Nice to meet you! \
