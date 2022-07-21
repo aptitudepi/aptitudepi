@@ -23,4 +23,5 @@ When the Wifi/Modem/ISP works, I do miscellaneous things with various languages 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=github-dark-blue&background=000000&ring=0003FF&fire=0003FF&currStreakNum=0003FF&sideLabels=0003FF&currStreakLabel=0003FF&stroke=0003FF&border=000000&dates=0003FF&sideNums=0003FF)](https://git.io/streak-stats)
 ![aptitudepi's github stats](https://github-readme-stats.vercel.app/api?username=aptitudepi&bg_color=000000&show_icons=true&&text_color=0000ff&title_color=0000ff&hide_border=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&bg_color=000000&show_icons=true&&text_color=ffffff&title_color=ffffff&hide_border=true)]
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&bg_color=000000&show_icons=true&&text_color=ffffff&title_color=ffffff&hide_border=true)
