@@ -21,6 +21,6 @@ I'm DB 😄! Nice to meet you! \
 
 When the Wifi/Modem/ISP works, I do miscellaneous things with various languages (Python, HTML/CSS/JS, Ubuntu/dabbling in Arch), and learn C++ and Ethical Hacking in Kali Linux 🌱🤔! I'm also wondering how I can get my Raspberry Pi cluster (specifically SLURM) to do various things!
 
-![aptitudepi's github stats](https://github-readme-stats.vercel.app/api?username=aptitudepi&bg_color=000000,000000&show_icons=true&&text_color=0000ff&title_color=0000ff)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&bg_color=000000,000000&show_icons=true&&text_color=0000ff&title_color=0000ff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![aptitudepi's github stats](https://github-readme-stats.vercel.app/api?username=aptitudepi&bg_color=000000&show_icons=true&&text_color=0000ff&title_color=0000ff)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&bg_color=000000&show_icons=true&&text_color=0000ff&title_color=0000ff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=github-dark-blue&background=000000&ring=0003FF&fire=0003FF&currStreakNum=0003FF&sideLabels=0003FF&currStreakLabel=0003FF&stroke=0003FF&border=000000&dates=0003FF&sideNums=0003FF)](https://git.io/streak-stats)
