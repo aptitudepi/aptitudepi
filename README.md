@@ -21,4 +21,8 @@ I'm aptitudepi! Nice to meet you!
 
 When the Wifi works, I do miscellaneous things with various languages (Python, HTML, CSS, NodeJS/jQuery, C/C++, Java, etc.), as well as Ethical Hacking in Kali Linux and Machine Learning (using Tensorflow/Keras, Pytorch/Pytorch Lightining, XGBOOST, etc.)! I'm also wondering how I can get my Raspberry Pi cluster (specifically SLURM) to do various things!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=github-dark-blue&background=000000&ring=0003FF&fire=0003FF&currStreakNum=0003FF&sideLabels=0003FF&currStreakLabel=0003FF&stroke=0003FF&border=000000&dates=0003FF&sideNums=0003FF)](https://git.io/streak-stats)
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
