@@ -23,5 +23,5 @@ When the Wifi works, I do miscellaneous things with various languages (Python, H
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/aptitudepi/count.svg" />
 </p>
