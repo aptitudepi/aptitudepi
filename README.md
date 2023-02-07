@@ -21,10 +21,10 @@ I'm Devkumar! Nice to meet you!
 
 When the Wifi works, I do miscellaneous things with various languages (Python, HTML, CSS, NodeJS/jQuery, C/C++, Java, etc.), as well as Ethical Hacking in Kali Linux and Machine Learning (using Tensorflow/Keras, Pytorch/Pytorch Lightining, XGBOOST, etc.)! I'm also wondering how I can get my Raspberry Pi cluster (specifically SLURM) to do various things!
 
-[![GitHub Streak-Dark](https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=github-dark-blue&ring=0000FF&fire=0000FF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&stroke=0000FF&border=FFFFFF&dates=FFFFFF#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak-Light](https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=github-light-blue&background=FFFFFF&ring=0000FF&fire=0000FF&sideLabels=0000FF&currStreakLabel=0000FF&stroke=0000FF&border=000000&dates=0000FF#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 ![aptitudepi's github stats](https://github-readme-stats.vercel.app/api?username=aptitudepi&theme=transparent)
 <br>
+[![GitHub Streak-Dark](https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=github-dark-blue&ring=0000FF&fire=0000FF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&stroke=0000FF&border=FFFFFF&dates=FFFFFF#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak-Light](https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=github-light-blue&background=FFFFFF&ring=0000FF&fire=0000FF&sideLabels=0000FF&currStreakLabel=0000FF&stroke=0000FF&border=000000&dates=0000FF#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&theme=transparent)
 <br>
 <p align="center"> 
