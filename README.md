@@ -26,6 +26,7 @@ When the Wifi works, I do miscellaneous things with various languages (Python, H
 ![aptitudepi's github stats](https://github-readme-stats.vercel.app/api?username=aptitudepi&theme=transparent)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&theme=transparent)
+<br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/aptitudepi/count.svg" />
