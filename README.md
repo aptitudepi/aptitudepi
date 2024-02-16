@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </a> 
 -->
 
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">👋 Hi there! I'm Devkumar!</h1>
 <h4 align="center">When the Wifi works, I do miscellaneous things with various languages (Python, HTML, CSS, NodeJS/jQuery, C/C++, Java, etc.), as well as Ethical Hacking in Kali Linux and Machine Learning (using Tensorflow/Keras, Pytorch/Pytorch Lightining, XGBOOST, etc.)! I'm also wondering how I can get my Raspberry Pi cluster (specifically SLURM) to do various things!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aptitudepi&label=Profile%20views&color=0000ff&style=for-the-badge" alt="aptitudepi" /> </p>
