@@ -53,7 +53,3 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&theme=transparent&layout=donut-vertical&border=0000FF&stroke=0000FF" />
 </div>
 <br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aptitudepi/count.svg" />
-</p>
