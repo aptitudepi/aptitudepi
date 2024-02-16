@@ -23,7 +23,6 @@ When the Wifi works, I do miscellaneous things with various languages (Python, H
 
 ![aptitudepi's github stats](https://github-readme-stats.vercel.app/api?username=aptitudepi&theme=transparent)
 ![GitHub Streak-Dark](https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=github-dark-blue&ring=0000FF&fire=0000FF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&stroke=0000FF&border=FFFFFF&dates=FFFFFF#gh-dark-mode-only)
-![GitHub Streak-Light](https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=github-light-blue&background=FFFFFF&ring=0000FF&fire=0000FF&sideLabels=0000FF&currStreakLabel=0000FF&stroke=0000FF&border=000000&dates=0000FF#gh-light-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&theme=transparent&layout=donut-vertical)
 <br>
 <p align="center"> 
