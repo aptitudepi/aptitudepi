@@ -53,5 +53,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=transparent&ring=0000FF&fire=0000FF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&stroke=0000FF&border=FFFFFF&dates=FFFFFF#gh-dark-mode-only" width = "400"/>
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&theme=transparent&layout=donut-vertical&border=0000FF&stroke=0000FF" width = "400" height = "200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&theme=transparent&layout=donut-vertical&border=0000FF&stroke=0000FF" width = "400" height = "400"/>
 </div>
