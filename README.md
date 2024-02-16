@@ -40,8 +40,9 @@ When the Wifi works, I do miscellaneous things with various languages (Python, H
 
 ![aptitudepi's github stats](https://github-readme-stats.vercel.app/api?username=aptitudepi&theme=transparent)
 ![GitHub Streak-Dark](https://github-readme-streak-stats.herokuapp.com?user=aptitudepi&theme=transparent&ring=0000FF&fire=0000FF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&stroke=0000FF&border=FFFFFF&dates=FFFFFF#gh-dark-mode-only)
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&theme=transparent&layout=donut-vertical" />
-
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptitudepi&theme=transparent&layout=donut-vertical" />
+</p>
 <br>
 <p align="center"> 
   Visitor count<br>
