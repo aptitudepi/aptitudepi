@@ -2,7 +2,7 @@
 
 <!--
 **aptitudepi/aptitudepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://komarev.com/ghpvc/?username=aptitudepi)
+![](https://komarev.com/ghpvc/?username=aptitudepi&style=for-the-badge)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </a> 
 -->
 
-<h1 align="center">Hi 👋, I'm Devkumar</h1>
+<h1 align="center">Hi! 👋 <br /> I'm Devkumar </h1>
 <h3 align="center">When the Wifi works, I do miscellaneous things with various languages (Python, HTML, CSS, NodeJS/jQuery, C/C++, Java, etc.), as well as Ethical Hacking in Kali Linux and Machine Learning (using Tensorflow/Keras, Pytorch/Pytorch Lightining, XGBOOST, etc.)! I'm also wondering how I can get my Raspberry Pi cluster (specifically SLURM) to do various things!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aptitudepi&label=Profile%20views&color=0e75b6&style=flat" alt="aptitudepi" /> </p>
