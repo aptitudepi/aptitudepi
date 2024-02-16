@@ -20,27 +20,27 @@ Here are some ideas to get you started:
 <a href="https://0xdb.tech" target="_blank">
 <img src=https://img.shields.io/badge/website-1b5568?&style=for-the-badge&logo=html5&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
-<a href="https://www.linkedin.com/in/kulfieshan" target="_blank">
+<a href="nope" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
 </a>
-<a href="https://twitter.com/eshaniyer06" target="_blank">
+<a href="no twitter" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
-<a href="https://discord.gg/user/Oblivian_Fired#0338" target="_blank">
+<a href="https://discord.gg/user/me" target="_blank">
 
-<a href="mailto:admin@eshaniyer.tech" target="_blank">
+<a href="mailto:example@example.com" target="_blank">
 <img src=https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a> 
 -->
 
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">When the Wifi works, I do miscellaneous things with various languages (Python, HTML, CSS, NodeJS/jQuery, C/C++, Java, etc.), as well as Ethical Hacking in Kali Linux and Machine Learning (using Tensorflow/Keras, Pytorch/Pytorch Lightining, XGBOOST, etc.)! I'm also wondering how I can get my Raspberry Pi cluster (specifically SLURM) to do various things!</h3>
+<h4 align="center">When the Wifi works, I do miscellaneous things with various languages (Python, HTML, CSS, NodeJS/jQuery, C/C++, Java, etc.), as well as Ethical Hacking in Kali Linux and Machine Learning (using Tensorflow/Keras, Pytorch/Pytorch Lightining, XGBOOST, etc.)! I'm also wondering how I can get my Raspberry Pi cluster (specifically SLURM) to do various things!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aptitudepi&label=Profile%20views&color=0000ff&style=for-the-badge" alt="aptitudepi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aptitudepi&label=Profile%20views&color=0000ff&style=for-the-badge" alt="aptitudepi" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devkumarbanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devkumarbanerjee" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devkumarbanerjee" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&color=000000&logoColor=0000ff" alt="devkumarbanerjee" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
